@@ -1,0 +1,3 @@
+﻿  test.c
+D:\C代码\test扫雷.c\test.c(31,2): warning C4013: “srand”未定义；假设外部返回 int
+LINK : fatal error LNK1168: 无法打开 D:\C代码\test扫雷.c\x64\Debug\test扫雷.c.exe 进行写入
