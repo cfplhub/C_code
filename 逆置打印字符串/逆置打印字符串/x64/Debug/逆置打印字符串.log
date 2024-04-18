@@ -1,0 +1,4 @@
+﻿  test_04_05.c
+D:\C代码\逆置打印字符串\test_04_05.c(26,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\C代码\逆置打印字符串\test_04_05.c(28,12): warning C4013: “strlen”未定义；假设外部返回 int
+  逆置打印字符串.vcxproj -> D:\C代码\逆置打印字符串\x64\Debug\逆置打印字符串.exe
