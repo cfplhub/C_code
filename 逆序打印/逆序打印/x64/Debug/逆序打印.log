@@ -1,0 +1,4 @@
+﻿  test_0404.c
+D:\C代码\逆序打印\test_0404.c(9,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\C代码\逆序打印\test_0404.c(13,14): warning C4013: “strlen”未定义；假设外部返回 int
+  逆序打印.vcxproj -> D:\C代码\逆序打印\x64\Debug\逆序打印.exe
