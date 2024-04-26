@@ -3,7 +3,7 @@
 
 
 
-[Uploading 一名合格的程序猿# 一名合格的程序猿修炼手册:book: :smile::100:
+[Uploading 一名合格的程序猿# 一名合格的程序猿修炼手册:book:  :smile: :100:
 
 `Github `有个「**清华大学计算机系课程攻略**」的仓库。:computer:
 
