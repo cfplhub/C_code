@@ -1,0 +1,3 @@
+﻿  test.c
+D:\C代码\test_1205-binary_search\test.c(35,6): warning C4101: “i”: 未引用的局部变量
+  test_1205-binary_search.vcxproj -> D:\C代码\test_1205-binary_search\x64\Debug\test_1205-binary_search.exe
