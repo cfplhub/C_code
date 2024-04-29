@@ -1,0 +1,2 @@
+﻿  test.c
+D:\C代码\test_1204\test.c(24): error C4700: 使用了未初始化的局部变量“count”
