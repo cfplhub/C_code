@@ -1,0 +1,4 @@
+﻿  test.c
+D:\C代码\逐渐打印字符\test.c(11,14): warning C4013: “strlen”未定义；假设外部返回 int
+D:\C代码\逐渐打印字符\test.c(19,3): warning C4013: “Sleep”未定义；假设外部返回 int
+  逐渐打印字符.vcxproj -> D:\C代码\逐渐打印字符\x64\Debug\逐渐打印字符.exe
