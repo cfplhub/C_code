@@ -1,0 +1,3 @@
+﻿  test.c
+D:\C代码\分支\test.c(33,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  分支.vcxproj -> D:\C代码\分支\x64\Debug\分支.exe
