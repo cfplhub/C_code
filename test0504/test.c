@@ -206,31 +206,78 @@ char* mystrcat(char* des, const char* src)
 //}
 
 //模拟内存拷贝
-void* my_memcpy(void* dest, const void* src, size_t num)
+//void* my_memcpy(void* dest, const void* src, size_t num)
+//{
+//	void* ret = dest;
+//
+//	while (num--)
+//	{
+//		*(char*)dest = *(char*)src;
+//
+//		*(char*)dest += 1;
+//		*(char*)src += 1;
+//
+//	}
+//
+//	return ret;
+//}
+//
+//int main()
+//{
+//	int arr[] = { 1,2,3,4,5 };
+//
+//	int arr2[] = { 0 };
+//
+//	int* ret = my_memcpy(arr2, arr, 20);
+//
+//
+//	return 0;
+//}
+
+//模拟实现memmove(即使两参数内容重叠也能拷贝)目标内存与源内存可重叠
+
+void* my_memmove(void* dest, const void* src, size_t num)
 {
+	assert(dest && src);
+
 	void* ret = dest;
 
-	while (num--)
+	if (dest < src)
 	{
-		*(char*)dest = *(char*)src;
-
-		*(char*)dest += 1;
-		*(char*)src += 1;
+		//前->后 拷贝
+		while (num--)
+		{
+			*(char*)dest = *(char*)src;
+		
+			dest = (char*)dest + 1;
+			src = (char*)src + 1;
+		}
 
 	}
 
+	else
+	{
+		//后->前  拷贝
+
+		while (num--)
+		{
+			*((char*)dest + num) = *((char*)src + num);
+		}
+	}
 	return ret;
 }
 
 int main()
 {
-	int arr[] = { 1,2,3,4,5 };
+	int arr[] = { 1,2,3,4,5,6,7,8,9,10 };
 
-	int arr2[] = { 0 };
+	my_memmove(arr, arr + 2, 20);
 
-	int* ret = my_memcpy(arr2, arr, 20);
-
-	printf("%s\n", ret);
+	int i = 0;
+	for (i = 0; i < 10; i++)
+	{
+		printf("%d ", arr[i]);
+	}
 
 	return 0;
 }
