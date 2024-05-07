@@ -1,0 +1,4 @@
+﻿  爱心代码.cpp
+C:\Users\86155\Desktop\VS\VS项目\爱心代码\爱心代码\爱心代码.cpp(7,37): warning C4305: “-=”: 从“double”到“float”截断
+C:\Users\86155\Desktop\VS\VS项目\爱心代码\爱心代码\爱心代码.cpp(9,42): warning C4305: “+=”: 从“double”到“float”截断
+  爱心代码.vcxproj -> C:\Users\86155\Desktop\VS\VS项目\爱心代码\x64\Debug\爱心代码.exe
