@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "案例2_冒泡排序年龄升序排序", "案例2_冒泡排序年龄升序排序\案例2_冒泡排序年龄升序排序.vcxproj", "{859E6EDC-A37A-46E2-B0DD-8EE0D0D70EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{859E6EDC-A37A-46E2-B0DD-8EE0D0D70EC8}.Debug|x64.ActiveCfg = Debug|x64
+		{859E6EDC-A37A-46E2-B0DD-8EE0D0D70EC8}.Debug|x64.Build.0 = Debug|x64
+		{859E6EDC-A37A-46E2-B0DD-8EE0D0D70EC8}.Debug|x86.ActiveCfg = Debug|Win32
+		{859E6EDC-A37A-46E2-B0DD-8EE0D0D70EC8}.Debug|x86.Build.0 = Debug|Win32
+		{859E6EDC-A37A-46E2-B0DD-8EE0D0D70EC8}.Release|x64.ActiveCfg = Release|x64
+		{859E6EDC-A37A-46E2-B0DD-8EE0D0D70EC8}.Release|x64.Build.0 = Release|x64
+		{859E6EDC-A37A-46E2-B0DD-8EE0D0D70EC8}.Release|x86.ActiveCfg = Release|Win32
+		{859E6EDC-A37A-46E2-B0DD-8EE0D0D70EC8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6107B049-AD14-4FE3-85C1-F8C8C89E223D}
+	EndGlobalSection
+EndGlobal
