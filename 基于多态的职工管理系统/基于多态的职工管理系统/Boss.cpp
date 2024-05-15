@@ -1,0 +1,26 @@
+#include"Boss.h"
+
+Boss::Boss(int id, string name, int dId)
+{
+	this->m_Id = id;
+	this->m_Name = name;
+	this->m_DepId = dId;
+}
+
+
+
+
+void Boss::showInfo()
+{
+	cout << "职工编号：" << this->m_Id
+		<< "\t职工姓名：" << this->m_Name
+		<< "\t岗位：" << this->getDepName()
+		<< "\t岗位职责：经营公司所有事务，带领员工实现集体利益最大化。" << endl;
+
+}
+
+string Boss::getDepName()
+{
+	return string("老板");
+
+}
