@@ -1,0 +1,5 @@
+﻿  contact.c
+D:\C代码\C语言实现通讯录\contact.c(18,3): warning C4013: “printf”未定义；假设外部返回 int
+D:\C代码\C语言实现通讯录\contact.c(23,2): warning C4013: “scanf”未定义；假设外部返回 int
+D:\C代码\C语言实现通讯录\contact.c(46,33): warning C4028: 形参 1 与声明不同
+  C语言实现通讯录.vcxproj -> D:\C代码\C语言实现通讯录\x64\Debug\C语言实现通讯录.exe
