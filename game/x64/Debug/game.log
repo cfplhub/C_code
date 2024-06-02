@@ -1,0 +1,15 @@
+﻿  game.cpp
+D:\VS——项目\game\game.cpp(85,29): error C2248: “Plant::cost”: 无法访问 private 成员(在“Plant”类中声明)
+D:\VS——项目\game\game.cpp(25,9): message : 参见“Plant::cost”的声明
+D:\VS——项目\game\game.cpp(10,7): message : 参见“Plant”的声明
+D:\VS——项目\game\game.cpp(87,29): error C2248: “Plant::cost”: 无法访问 private 成员(在“Plant”类中声明)
+D:\VS——项目\game\game.cpp(25,9): message : 参见“Plant::cost”的声明
+D:\VS——项目\game\game.cpp(10,7): message : 参见“Plant”的声明
+D:\VS——项目\game\game.cpp(94,13): error C2360: “p”的初始化操作由“case”标签跳过
+D:\VS——项目\game\game.cpp(84,23): message : 参见“p”的声明
+D:\VS——项目\game\game.cpp(98,13): error C2361: “default”标签跳过“p”的初始化操作
+D:\VS——项目\game\game.cpp(84,23): message : 参见“p”的声明
+D:\VS——项目\game\game.cpp(120,19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\VS——项目\game\game.cpp(124,48): error C2248: “Zombie::hp”: 无法访问 private 成员(在“Zombie”类中声明)
+D:\VS——项目\game\game.cpp(47,9): message : 参见“Zombie::hp”的声明
+D:\VS——项目\game\game.cpp(31,7): message : 参见“Zombie”的声明
