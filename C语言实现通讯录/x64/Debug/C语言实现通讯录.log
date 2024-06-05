@@ -1,0 +1,27 @@
+﻿  contact.c
+  test.c
+D:\C代码\C语言实现通讯录\contact.c(129,33): warning C4028: 形参 1 与声明不同
+D:\C代码\C语言实现通讯录\test.c(23,14): warning C4047: “函数”:“Contact *”与“Contact (*)[100]”的间接级别不同
+D:\C代码\C语言实现通讯录\test.c(23,14): warning C4024: “InitContact”: 形参和实参 1 的类型不同
+D:\C代码\C语言实现通讯录\test.c(35,15): warning C4047: “函数”:“Contact *”与“Contact (*)[100]”的间接级别不同
+D:\C代码\C语言实现通讯录\test.c(35,15): warning C4024: “AddContact”: 形参和实参 1 的类型不同
+D:\C代码\C语言实现通讯录\test.c(38,16): warning C4047: “函数”:“Contact *”与“Contact (*)[100]”的间接级别不同
+D:\C代码\C语言实现通讯录\test.c(38,16): warning C4024: “DeleContact”: 形参和实参 1 的类型不同
+D:\C代码\C语言实现通讯录\test.c(41,16): warning C4047: “函数”:“Contact *”与“Contact (*)[100]”的间接级别不同
+D:\C代码\C语言实现通讯录\test.c(41,16): warning C4024: “FindContact”: 形参和实参 1 的类型不同
+D:\C代码\C语言实现通讯录\test.c(44,18): warning C4047: “函数”:“Contact *”与“Contact (*)[100]”的间接级别不同
+D:\C代码\C语言实现通讯录\test.c(44,18): warning C4024: “ModifyContact”: 形参和实参 1 的类型不同
+D:\C代码\C语言实现通讯录\test.c(47,16): warning C4047: “函数”:“Contact *”与“Contact (*)[100]”的间接级别不同
+D:\C代码\C语言实现通讯录\test.c(47,16): warning C4024: “ShowContact”: 形参和实参 1 的类型不同
+D:\C代码\C语言实现通讯录\test.c(50,16): warning C4047: “函数”:“Contact *”与“Contact (*)[100]”的间接级别不同
+D:\C代码\C语言实现通讯录\test.c(50,16): warning C4024: “SortContact”: 形参和实参 1 的类型不同
+D:\C代码\C语言实现通讯录\test.c(53,16): warning C4047: “函数”:“Contact *”与“Contact (*)[100]”的间接级别不同
+D:\C代码\C语言实现通讯录\test.c(53,16): warning C4024: “InitContact”: 形参和实参 1 的类型不同
+D:\C代码\C语言实现通讯录\test.c(54,19): warning C4047: “函数”:“Contact *”与“Contact (*)[100]”的间接级别不同
+D:\C代码\C语言实现通讯录\test.c(54,19): warning C4024: “DistotyContact”: 形参和实参 1 的类型不同
+D:\C代码\C语言实现通讯录\test.c(61,16): warning C4047: “函数”:“Contact *”与“Contact (*)[100]”的间接级别不同
+D:\C代码\C语言实现通讯录\test.c(61,16): warning C4024: “Savecontact”: 形参和实参 1 的类型不同
+D:\C代码\C语言实现通讯录\test.c(62,19): warning C4047: “函数”:“Contact *”与“Contact (*)[100]”的间接级别不同
+D:\C代码\C语言实现通讯录\test.c(62,19): warning C4024: “DistotyContact”: 形参和实参 1 的类型不同
+  正在生成代码...
+  C语言实现通讯录.vcxproj -> D:\C代码\C语言实现通讯录\x64\Debug\C语言实现通讯录.exe
