@@ -1,0 +1,4 @@
+﻿  manger.cpp
+D:\VS——项目\机房预约系统\manger.cpp(154,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS——项目\机房预约系统\manger.cpp(155,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  机房预约系统.vcxproj -> D:\VS——项目\机房预约系统\x64\Debug\机房预约系统.exe
