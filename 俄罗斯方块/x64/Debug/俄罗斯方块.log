@@ -1,0 +1,2 @@
+﻿  俄罗斯方块.cpp
+D:\VS——项目\俄罗斯方块\俄罗斯方块.cpp(51,19): error C3668: “MyTetromino::getPoints”: 包含重写说明符“override”的方法没有重写任何基类方法
